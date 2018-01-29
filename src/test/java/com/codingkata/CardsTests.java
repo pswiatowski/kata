@@ -2,12 +2,12 @@ package com.codingkata;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import java.util.ArrayList;
+
 import org.junit.Before;
 import org.junit.Test;
 
 import com.google.common.collect.Lists;
-
-import java.util.ArrayList;
 
 /**
  * Created by pswiatowski on 1/29/18.
